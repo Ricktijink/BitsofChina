@@ -1,0 +1,133 @@
+/* POSTPAGE */
+
+.postbig-wrapper{
+   width: 98%;
+   height: auto;
+   min-height: 500px;
+   margin: 40px auto 30px;
+   box-shadow: 0 6px 30px rgba(0,0,0,0.1);
+   border-radius: 8px;
+   animation: PostEntry 1s forwards 1s ease;
+   opacity: 0;
+}
+
+@keyframes PostEntry{
+    0%{
+        opacity: 0;
+        }
+    100%{
+        opacity: 1;
+        }
+}
+
+.postbig-content{
+   font-size: 16px;
+   line-height: 1.8;
+   font-family: 'Open Sans', sans-serif;
+   padding: 60px 20px;
+   background-color: #FFFFFF;
+   border-radius: 8px;
+   color: #616161;
+   font-weight: 400;
+}
+
+.postbig-info{
+   font-size: 14px;
+   color: #8d8d8d;
+   letter-spacing: 2px;
+   margin-bottom: 20px;
+   text-align: center;
+   display: block;
+}
+
+.postbig-info i{
+   margin-right: 6px;
+}
+
+.postbig-image{
+   width: 60%;
+   height: auto;
+   margin: 50px auto;
+   border-radius: 8px;
+   font-size: 14px;
+   color: $main-color;
+}
+
+.postbig-image img{
+   box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+   width: 100%;
+   height: auto;
+   border-radius: 8px;
+   margin-bottom: 10px;
+}
+
+.postbig-title{
+   font-size: 34px;
+   color: #505050;
+   font-weight: 700;
+   line-height: 1.2;
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   margin-top: 14px;
+}
+
+
+.postbig-text{
+   width: 90%;
+   height: auto;
+   margin: 0px auto;
+   line-height: 1.8;
+   color: #777777;
+}
+
+.text-intro{
+   font-weight: bold;
+   margin-bottom: 20px;
+}
+
+.text-subheader{
+   font-size: 24px;
+   color: #505050;
+   font-weight: 700;
+   line-height: 1.2;
+   font-family: 'Montserrat', sans-serif;
+   margin: 40px 0px;
+   display: block;
+}
+
+.back_btn{
+    background-color: #d79c6a;
+    color: #FFFFFF;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 30px;
+    margin: 50px auto 40px;
+    display: block;
+    width: 20%;
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+.back_btn1{
+    background-color: #d79c6a;
+    color: #FFFFFF;
+    padding: 10px 30px;
+    border-radius: 8px;
+    display: block;
+    font-size: 16px;
+    width: 90%;
+    margin: 40px auto 0px;
+}
+
+.back_btn:hover{
+    background-color:#bd8250;
+}
+
+.back_btn1:hover{
+    background-color:#bd8250;
+}
+
+a{
+    text-decoration: none;
+}
+

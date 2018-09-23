@@ -15,7 +15,7 @@
    <!-- Font Awesome -->
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
-   <title>Bits of China | Home</title>
+   <title>Bits of China | Coffee Creeps</title>
 </head>
 <body>
    <!-- 0.0 - Container -->
@@ -32,8 +32,10 @@
          <!-- 1.3 - Navigation -->
          <div class="navigation-menu">
             <p>
+              <span class="nav-title">Coffee Creeps</span>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis reiciendis eius blanditiis, 
               quasi quia.
+              <a href="index.php" class="back_btn1">BACK</a>
             </p>
          </div>
          <!-- 1.4 - Footer -->
@@ -64,40 +66,7 @@
       </div>
       <!-- 2.1 - Content container -->
       <div class="page-content-container">
-         <!-- 2.2 - Featured posts -->
-         <div class="featured-posts">
-            <!-- Owl carousel -->
-            <div class="featured-ribbon">
-               Our series!
-            </div>
-            <div id="owl-demo" class="owl-carousel owl-theme">
-               <!-- Includes a file with containing all the featured posts -->
-               <?php include 'Includes/inc_featured.php';?>
-            </div>
-         </div>
-         <!-- 2.3 - Filter content -->
-         <div class="content-filter">
-            <div class="filter-category">
-              Filters:<br/><br/>
-              <div class="filter-bar">
-                  <span class="categoryBTN on" id="all">All</span>
-                  <span class="categoryBTN" id="lifestyle">Lifestyle</span>
-                  <span class="categoryBTN" id="food">Food</span>
-                  <span class="categoryBTN" id="recreation">Recreation</span>
-                  <span class="categoryBTN" id="nightlife">Night life</span>
-                  <span class="categoryBTN" id="student">Student</span>
-                  <span class="categoryBTN" id="travel">Travel</span>
-                  <span class="categoryBTN" id="work">Work</span>
-               </div>
-            </div>
-            <!-- Searchbar -->
-            <div class="filter-search">
-               Search:<br/><br/>
-               <button type="submit"><i class="fa fa-search"></i></button>
-               <input type="search" id="search" placeholder="Search...">
-            </div>
-            <div class="clearfix"></div>
-         </div>
+        <span class="series-title">Coffee Creeps</span>
          <!-- 2.4 - Page content -->
          <div class="page-content">
             <!-- Includes a file with containing all the posts -->

@@ -1,7 +1,7 @@
 <div class="grid">
   <div class="grid-sizer"></div>
   <!-- POST 2 - Post no Image -->
-  <div class="grid-item lifestyle">
+  <div class="grid-item lifestyle series1">
      <div class="post-content-wrapper">
         <div class="post-title">
            <h2 class="name">2. No picture? No Problem!</h2>
@@ -19,7 +19,7 @@
      </div>
   </div>
   <!-- POST 3 - Post w/ soundcloud -->
-  <div class="grid-item recreation">
+  <div class="grid-item recreation series2">
      <div class="post-thumbnail">
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395283300&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
      </div>
@@ -40,7 +40,7 @@
      </div>
   </div>
   <!-- POST 4 - Post no Image -->
-  <div class="grid-item work">
+  <div class="grid-item work series3">
      <div class="post-content-wrapper">
         <div class="post-title">
            <h2 class="name">4. No image here!</h2>
@@ -58,7 +58,7 @@
      </div>
   </div>
   <!-- POST 5 - Post w/ Quote -->
-  <div class="quote1 grid-item">
+  <div class="quote1 grid-item series4">
      <div class="quote-bg">
         <div class="quote-content">
            <span class="quote-mark"><i class="fas fa-quote-left fa-sm"></i></span>
@@ -68,7 +68,7 @@
      </div>
   </div>
   <!-- POST 6 - Post w/ Gif -->
-  <div class="grid-item lifestyle">
+  <div class="grid-item lifestyle  series5">
      <span class="giflabel">GIF</span>
      <div class="post-thumbnail">
         <img class="gif" src="Images/1.png"><img class="active" src="Images/1.gif">
@@ -90,7 +90,7 @@
      </div>
   </div>
   <!-- POST 7 - Post w/ Video -->
-  <div class="grid-item nightlife travel">
+  <div class="grid-item nightlife travel series6">
      <div class="post-thumbnail">
         <iframe width="100%" height="auto" src="https://www.youtube.com/embed/wsb0_y-HCVU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </div>
@@ -111,7 +111,7 @@
      </div>
   </div>
   <!-- POST 8 - Post w/ Image -->
-  <div class="grid-item food">
+  <div class="grid-item food series7">
      <div class="post-thumbnail">
         <img src="Images/1.jpg" alt="thumbnail">
      </div>
@@ -123,7 +123,7 @@
            Food
         </div>
         <div class="post-content">
-           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="postpage.php" target="_blank">Read more</a></span>
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Rick Tijink</span>
@@ -132,7 +132,7 @@
      </div>
   </div>
   <!-- POST 9 - Post w/ Image -->
-  <div class="grid-item food lifestyle">
+  <div class="grid-item food lifestyle  series8">
      <div class="post-thumbnail">
         <img src="Images/4.jpg" alt="thumbnail">
      </div>
@@ -153,7 +153,7 @@
      </div>
   </div>
   <!-- POST 10 - Post w/ Gif -->
-  <div class="grid-item student">
+  <div class="grid-item student series1">
      <span class="giflabel">GIF</span>
      <div class="post-thumbnail">
         <img class="gif" src="Images/2.png"><img class="active" src="Images/2.gif">
@@ -175,7 +175,7 @@
      </div>
   </div>
   <!-- POST 11 - Post w/ Quote -->
-  <div class="quote1 grid-item">
+  <div class="quote1 grid-item series1">
      <div class="quote-bg quoteimg">
         <div class="quote-content">
            <span class="quote-mark"><i class="fas fa-quote-left fa-sm"></i></span>
@@ -185,7 +185,7 @@
      </div>
   </div>
   <!-- POST 12 - Post w/ Image -->
-  <div class="grid-item nightlife student">
+  <div class="grid-item nightlife student series1">
      <div class="post-thumbnail">
         <img src="Images/3.jpg" alt="thumbnail">
      </div>
@@ -206,7 +206,7 @@
      </div>
   </div>
   <!-- POST 13 - Post w/ Image -->
-  <div class="grid-item travel">
+  <div class="grid-item travel series1">
      <div class="post-content-wrapper">
         <div class="post-title">
            <h2 class="name">13. Night Owls: No image</h2>
@@ -223,8 +223,5 @@
         </div>
      </div>
   </div>
-
-
-
 
    </div>

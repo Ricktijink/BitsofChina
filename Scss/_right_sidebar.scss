@@ -1,0 +1,173 @@
+/* 3.1 - Page sidebar right */
+
+.page-sidebar-right{
+   width: 320px;
+   height: 100%;
+   background-color: $main-color;
+   position: fixed;
+   top: 0;
+   right: 0;
+   padding: 30px;
+   color: #FFFFFF;
+   overflow-y: auto;
+}
+
+/* width */
+.page-sidebar-right::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+.page-sidebar-right::-webkit-scrollbar-track {
+    background: #efaf78;
+}
+
+/* Handle */
+.page-sidebar-right::-webkit-scrollbar-thumb {
+    background: #bd8250;
+}
+
+/* Handle on hover */
+.page-sidebar-right::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.sidebar-right-content h1{
+   width: 100%;
+   height: auto;
+   font-size: 26px;
+   font-family: 'Montserrat', sans-serif;
+   letter-spacing: 2px;
+   margin-bottom: 20px;
+}
+
+.sidebar-right-content h3{
+   width: 100%;
+   height: auto;
+   font-size: 16px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar-right-content p{
+   width: 100%;
+   height: auto;
+   font-size: 14px;
+   line-height: 1.6;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.area{
+   background-color: #bd8250;
+   border-radius: 4px;
+   padding: 30px;
+   height: auto;
+}
+
+#instafeed{
+   width: 100%;
+   margin: 0px auto;
+   background-color: #bd8250;
+}
+
+.instaimg{
+   width: 30%;
+   height: 100%;
+   float: left;
+   margin: 2%;
+   background-color: #FFFFFF;
+   padding: 4px 4px 0px 4px;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+.instaimg:nth-child(3n+1){
+   margin: 2% 2% 2% 0%;
+}
+
+.instaimg a img{
+   width: 100%;
+   height: auto;
+}
+
+.instaimg a img:hover{
+   opacity: 0.6;
+}
+
+
+.authorname{
+   font-size: 18px;
+   color: #505050;
+   font-weight: 700;
+   line-height: 1.2;
+   font-family: 'Montserrat', sans-serif;
+   margin: 10px 0px;
+   display: block;
+}
+
+.authorinfo{
+   font-size: 14px;
+   color: $main-color;
+   font-weight: 700;
+   line-height: 1.2;
+   font-family: 'Montserrat', sans-serif;
+   margin: 10px 0px;
+   display: block;
+}
+
+.authordescr{
+   height: auto;
+   line-height: 1.6;
+   display: block;
+   color: #777777;
+   font-size: 16px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.text-quote{
+   color: $main-color;
+   font-size: 20px;
+   font-style: italic;
+   margin: 30px 40px;
+   display: block;
+}
+
+.text-quote::before, .text-quote::after {
+   content: "\"";
+   font-size: 24px;
+   line-height: 1.2;
+}
+
+.postbig-text p img{
+   width: 40%;
+   height: auto;
+   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.img-left{
+   float: left;
+   margin: 0px 30px 30px 0px;
+}
+
+.img-right{
+   float: right;
+   margin: 0px 0px 30px 30px;
+}
+
+.soc-icon-right {
+    width: 34px;
+    height: 34px;
+    float: left;
+    margin: 0px 6px;
+    background-color: #eeedec;
+    border-radius: 22px;
+    padding: 9px;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #d79c6a;
+    cursor: pointer;
+}
+
+.soc-icon-right:hover{
+   background-color: $main-color-hover;
+}

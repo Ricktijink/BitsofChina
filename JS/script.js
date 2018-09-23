@@ -64,51 +64,6 @@ $(document).ready(function() {
    userFeed.run();
 });
 
-// TEEEEESSST
-$(document).ready(function(){
-    var $btns = $('.categoryBTN').click(function() {
-        if (this.id == 'all') {
-          $('#grid > li').fadeIn(450);
-        } else {
-          var $el = $('.' + this.id).fadeIn(450);
-          $('#grid > li').not($el).hide();
-        }
-        // $(document).load(function(){ $('#grid').masonry(); });
-        $btns.removeClass('on');
-        $(this).addClass('on');
-
-        $('#grid').masonry();
-      })
-
-    // var $search = $("#search").on('input',function(){
-    //     var matcher = new RegExp($(this).val(), 'gi');
-    //     $('.post').show().not(function(){
-    //         return matcher.test($(this).find('.name').text())
-    //     }).hide();
-    // })
-})
-
-
-/* Overlay with fade in / fade out effect */
-
-$(document).ready(function (){
-   $( "#openAbout_button" ).click(function() {
-      $( ".page-sidebar-right" ).animate({
-         right: '0'},200).animate({
-         opacity: '1'},350);
-      $( ".page-content-container" ).animate({
-      	'padding-right' : 360},100);
-   });
-
-   $('#closeAbout_button').click(function(){
-      $('.page-sidebar-right').animate({
-        	opacity: '1'},100).animate({
-        	right: '-360px'}, 200);
-      $( ".page-content-container" ).animate({
-      	'padding-right' : 0},100);
-      });
-});
-
 // init Masonry
 var $grid = $('.grid').masonry({
   itemSelector: '.grid-item',
@@ -122,7 +77,7 @@ $grid.imagesLoaded().progress( function() {
   $grid.masonry();
 });
 
-// TEEEEESSST
+// TEEEEESSST categories
 $(document).ready(function(){
     var $btns = $('.categoryBTN').click(function() {
         if (this.id == 'all') {
@@ -137,4 +92,21 @@ $(document).ready(function(){
 
         $('.grid').masonry();
       })
+})
+
+// TEEEEESSST voor series
+$(document).ready(function(){
+  var $btns1 = $('.categoryBTNs').click(function() {
+      if (this.id == 'all') {
+        $('.grid > .grid-item').fadeIn(450);
+      } else {
+        var $el = $('.' + this.id).fadeIn(450);
+        $('.grid > .grid-item').not($el).hide();
+      }
+      // $(document).load(function(){ $('#grid').masonry(); });
+      $btns1.removeClass('on');
+      $(this).addClass('on');
+
+      $('.grid').masonry();
+    })
 })
