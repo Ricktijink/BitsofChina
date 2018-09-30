@@ -67,6 +67,7 @@
       <!-- 2.1 - Content container -->
       <div class="page-content-container">
         <span class="series-title">Coffee Creeps</span>
+        <span class="series-descr">Life is what goes on in coffee shops in whispers, laughs and conversation. Thankfully, there are plenty of creeps out there who are willing to listen in and write about it afterwards</span>
          <!-- 2.4 - Page content -->
          <div class="page-content">
             <!-- Includes a file with containing all the posts -->
@@ -79,7 +80,23 @@
       </div>
       <!-- 3.1 -->
       <div class="page-sidebar-right">
-         <?php include 'Includes/inc_socialbar.php';?>
+          <div class="cover">
+            <div class="buttonz clearfix">
+              <div class="slide-button active-slide" id="slide-button1">Social</div>
+              <div class="slide-button" id="slide-button2">People</div>
+            </div>
+
+            <div class="slidebar">
+                <div class="slide" id="slide1">
+                  <?php include 'Includes/inc_socialbar.php';?>
+                </div>
+
+                <div class="slide" id="slide2">
+                  <?php include 'Includes/inc_people.php';?>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
       </div>
    </div>
    <!-- Masonry -->

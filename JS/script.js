@@ -110,3 +110,21 @@ $(document).ready(function(){
       $('.grid').masonry();
     })
 })
+
+
+// Scroll/switch right side bar
+
+$(document).ready(function() {
+  $("#slide-button1").click(function(){
+      $('.slidebar').animate({left: '0px'}, 300);
+      $( "#slide-button1" ).addClass( "active-slide" )
+      $( "#slide-button2" ).removeClass( "active-slide" )
+      console.log("slide-button1 clicked!");
+    });
+    $("#slide-button2").click(function(){
+      $('.slidebar').animate({left: '-310px'}, 300);
+      $( "#slide-button2" ).addClass( "active-slide" )
+      $( "#slide-button1" ).removeClass( "active-slide" )
+      console.log("slide-button2 clicked!");
+  });
+});

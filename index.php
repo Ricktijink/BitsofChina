@@ -110,12 +110,27 @@
       </div>
       <!-- 3.1 -->
       <div class="page-sidebar-right">
-         <?php include 'Includes/inc_socialbar.php';?>
-      </div>
-   </div>
-   <!-- Masonry -->
-   <script src="JS/jquery-3.3.1.min.js"></script>
+          <div class="cover">
+            <div class="buttonz clearfix">
+              <div class="slide-button active-slide" id="slide-button1">Social</div>
+              <div class="slide-button" id="slide-button2">People</div>
+            </div>
 
+            <div class="slidebar">
+                <div class="slide" id="slide1">
+                  <?php include 'Includes/inc_socialbar.php';?>
+                </div>
+
+                <div class="slide" id="slide2">
+                  <?php include 'Includes/inc_people.php';?>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+      </div>
+    </div>
+   <!-- Jquery -->
+   <script src="JS/jquery-3.3.1.min.js"></script>
    <!-- Include js plugin -->
    <script src="owl-carousel/owl.carousel.js"></script>
    <!-- Main code file -->

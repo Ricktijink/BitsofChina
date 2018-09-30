@@ -7,9 +7,9 @@
    position: fixed;
    top: 0;
    right: 0;
-   padding: 30px;
    color: #FFFFFF;
    overflow-y: auto;
+   overflow-x: hidden;
 }
 
 /* width */
@@ -170,4 +170,103 @@
 
 .soc-icon-right:hover{
    background-color: $main-color-hover;
+}
+
+
+// Slide test
+
+.buttonz{
+    position: fixed;
+    top:0;
+    width: 320px;
+    z-index: 100;
+}
+
+.slide-button{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    text-align: center; 
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#slide-button1{
+    background-color: #ebb88c;
+}
+
+#slide-button1:hover{
+    background-color: #f0bf94;
+}
+
+#slide-button2{
+    background-color: #ebb88c;
+}
+
+#slide-button2:hover{
+    background-color: #f0bf94;
+}
+
+.cover{
+    position: relative;
+}
+
+.slidebar{
+    width: 620px;
+    overflow: hidden;
+    position: absolute;
+    left:0;
+}
+
+.slide{
+    width: 250px!important;
+    margin: 80px 30px 30px 30px;
+    min-height: 300px;
+}
+
+#slide1{
+    float: left;
+}
+
+#slide2{
+    float: left;
+}
+
+.active-slide{
+    background-color: #d79c6a!important;
+}
+
+// Persons
+
+.person{
+    width: 46%;
+    float: left;
+    height: auto;
+    background-color: #FFFFFF;
+    color: #505050;
+    border: 4px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    border-radius: 8px;
+    margin: 2%;
+    font-family: "Montserrat";
+    cursor: pointer;
+}
+
+.person img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.person-name{
+    display: block;
+    padding: 10px 10px 4px 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.person-description{
+    display: block;
+    font-size: 13px;
+    padding: 0px 10px 10px 10px;
 }

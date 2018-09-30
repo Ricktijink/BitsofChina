@@ -119,14 +119,21 @@
                   </div>
                 </div>
               </div>
-              <a href="../index.php" class="back_btn">BACK</a>
+              <a href="../index.php" class="back_btn"><i class="far fa-caret-square-left"></i> BACK</a>
             <!-- ?.? - Go to top button -->
             <a href="#" id="myBtn"><i class="far fa-arrow-alt-circle-up fa-2x"></i></a>
          </div>
       </div>
       <!-- 3.1 -->
       <div class="page-sidebar-right">
-         <?php include '../Includes/inc_socialbar.php';?>
+        <div class="side-bar-content">
+          <div id="slide1" class="slide">
+            <?php include '../Includes/inc_socialbar.php';?>
+          </div>
+          <div id="slide2" class="slide">
+            <?php include '../Includes/inc_people.php';?>
+          </div>
+        </div>
       </div>
    </div>
    <!-- Jquery -->
@@ -134,7 +141,7 @@
 
    
    <!-- Main code file -->
-   <script src="../JS/instafeed.min.js"></script>
+   <script src="../JS/instafeed.min.js"></script> 
   
    <!-- Main code file -->
    <script src="../JS/script.js"></script>
