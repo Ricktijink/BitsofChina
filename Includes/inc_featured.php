@@ -1,80 +1,110 @@
-<!-- item -->
+<!-- Coffee creeps -->
 <div class="item">
    <div class="skill-item" >
-      <img src="Images/test1.png" alt="HTML5 icon">
-      <div class="test" id="all">
+      <img src="Images/Categories/coffeecreeps.jpg" alt="Coffee Creeps">
+      <div class="test">
          <h4>Coffee Creeps</h4>
-         <span><a href="coffee_creeps.php" target="_blank">View all</a></span>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>
-<!-- item -->
+<!-- Cab chronicles -->
 <div class="item">
    <div class="skill-item">
-      <img src="Images/test2.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series1">
+      <img src="Images/Categories/cabchronicles.jpg" alt="The cab chronicles">
+      <div class="test">
          <h4>The Cab Chronicles</h4>
-         <span>View all</span>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>
-<!-- item -->
+<!-- Night Owls -->
 <div class="item">
    <div class="skill-item">
-      <img src="Images/test3.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series2">
-         <h4>Dose of Culture</h4>
-         <span>View all</span>
-      </div>
-   </div>
-</div>
-<!-- item -->
-<div class="item">
-   <div class="skill-item">
-      <img src="Images/test4.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series3">
+      <img src="Images/Categories/nightowls.jpg" alt="Night Owls">
+      <div class="test">
          <h4>Night Owls</h4>
-         <span>View all</span>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>
-<!-- item -->
+<!-- China Madness -->
 <div class="item">
    <div class="skill-item">
-      <img src="Images/test5.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series4">
+      <img src="Images/Categories/chinamadness.jpg" alt="China Madness">
+      <div class="test">
+         <h4>China Madness</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
+      </div>
+   </div>
+</div>
+<!-- Food Quest -->
+<div class="item">
+   <div class="skill-item">
+      <img src="Images/Categories/foodquest.jpg" alt="Food Quest">
+      <div class="test">
          <h4>Food Quest</h4>
-         <span>View all</span>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>
-<!-- item -->
+<!-- Electric Life -->
 <div class="item">
    <div class="skill-item">
-      <img src="Images/test6.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series5">
-         <h4>Ren Hua: That Human Speak</h4>
-         <span>View all</span>
-      </div>
-   </div>
-</div>
-<!-- item -->
-<div class="item">
-   <div class="skill-item">
-      <img src="Images/test7.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series6">
+      <img src="Images/Categories/electriclife.jpg" alt="The electric life">
+      <div class="test">
          <h4>The Electric Life</h4>
-         <span>View all</span>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>
-<!-- item -->
+<!-- Ren Hua -->
 <div class="item">
    <div class="skill-item">
-      <img src="Images/test8.png" alt="HTML5 icon">
-      <div class="test categoryBTNs" id="series7">
-         <h4>Stories of China</h4>
-         <span>View all</span>
+      <img src="Images/Categories/test7.png" alt="Ren Hua">
+      <div class="test">
+         <h4>Ren Hua</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
+      </div>
+   </div>
+</div>
+<!-- Expat Stories -->
+<div class="item">
+   <div class="skill-item">
+      <img src="Images/Categories/expat.jpg" alt="Expat stories">
+      <div class="test">
+         <h4>Expat stories</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
+      </div>
+   </div>
+</div>
+<!-- Dance Music -->
+<div class="item">
+   <div class="skill-item">
+      <img src="Images/Categories/dancemusic.jpg" alt="Dance Music">
+      <div class="test">
+         <h4>Dance &amp; Music</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
+      </div>
+   </div>
+</div>
+<!-- China Net -->
+<div class="item">
+   <div class="skill-item">
+      <img src="Images/Categories/chinanet.jpg" alt="China's Net">
+      <div class="test">
+         <h4>China's Net</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
+      </div>
+   </div>
+</div>
+<!-- Concrete Jungle -->
+<div class="item">
+   <div class="skill-item">
+      <img src="Images/Categories/concretejungle.jpg" alt="Concrete jungle">
+      <div class="test">
+         <h4>Concrete Jungle</h4>
+         <span><a href="Posts/post_1.php" target="_blank">View latest</a></span>
       </div>
    </div>
 </div>

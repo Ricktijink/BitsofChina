@@ -35,8 +35,6 @@
    width: 94px;
    height: 94px;
    margin: 0px auto;
-   background-color: $main-color;
-   border-radius: 48px;
 }
 
 .logo-text h1{
@@ -112,7 +110,7 @@
 }
 
 .soc-icon:hover{
-   background-color: $main-color-hover;
+   background-color: #b77944;
 }
 
 #soc-1{
@@ -161,3 +159,15 @@
     font-weight: bold;
     display: block;
 }
+
+
+.footer-page {
+    width: 100%;
+    border-top: 1px solid #cecece;
+    margin-top: 40px; 
+    padding: 30px 0px 0px 0px;
+    text-align: center;
+    font-family: "Montserrat";
+    color: #8d8d8d;
+    font-size: 14px;
+  }

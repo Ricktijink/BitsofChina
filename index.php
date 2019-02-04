@@ -14,7 +14,8 @@
    <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
    <!-- Font Awesome -->
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-
+   <!-- Jquery -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <title>Bits of China | Home</title>
 </head>
 <body>
@@ -24,8 +25,10 @@
       <div class="page-sidebar-left">
          <!-- 1.2 - Logo -->
          <div class="logo">
-            <div class="logo-image"></div>
-            <div class="logo-text">
+            <div class="logo-image" id="open">
+               <img src="Images/logo.png" alt="Logo">
+            </div>
+            <div class="logo-text" id="close">
                <h1>Bits of China</h1>
             </div>
          </div>
@@ -91,46 +94,39 @@
                </div>
             </div>
             <!-- Searchbar -->
-            <div class="filter-search">
+            <!-- <div class="filter-search">
                Search:<br/><br/>
                <button type="submit"><i class="fa fa-search"></i></button>
                <input type="search" id="search" placeholder="Search...">
-            </div>
+            </div> -->
             <div class="clearfix"></div>
          </div>
          <!-- 2.4 - Page content -->
          <div class="page-content">
             <!-- Includes a file with containing all the posts -->
             <ul class="grid effect-1" id="grid">
-               <?php include 'Includes/inc_posts.php';?>
+               <?php include 'main_posts.php';?>
             </ul>
             <!-- ?.? - Go to top button -->
             <a href="#" id="myBtn"><i class="far fa-arrow-alt-circle-up fa-2x"></i></a>
+            <!-- Footer -->
+            <div class="footer-page">
+               Bits of China, 2018. Rick Tijink
+            </div>
          </div>
       </div>
-      <!-- 3.1 -->
-      <div class="page-sidebar-right">
+      <!-- 3.1 - Social bar -->
+      <div class="page-sidebar-right" id="sidebarRight">
           <div class="cover">
-            <div class="buttonz clearfix">
-              <div class="slide-button active-slide" id="slide-button1">Social</div>
-              <div class="slide-button" id="slide-button2">People</div>
-            </div>
-
             <div class="slidebar">
                 <div class="slide" id="slide1">
                   <?php include 'Includes/inc_socialbar.php';?>
-                </div>
-
-                <div class="slide" id="slide2">
-                  <?php include 'Includes/inc_people.php';?>
                 </div>
             </div>
             <div class="clearfix"></div>
           </div>
       </div>
     </div>
-   <!-- Jquery -->
-   <script src="JS/jquery-3.3.1.min.js"></script>
    <!-- Include js plugin -->
    <script src="owl-carousel/owl.carousel.js"></script>
    <!-- Main code file -->

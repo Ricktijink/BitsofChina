@@ -9,7 +9,7 @@
 
 .grid-sizer,
 .grid-item {
-   width: 23.5%;
+   width: 23%;
    height: auto;
    margin-bottom: 20px;
 }
@@ -92,6 +92,10 @@
    margin-bottom: 18px;
 }
 
+.post-content span a{
+   color: #bd8250;
+}
+
 .post-content span{
    color: #282828;
    text-decoration: underline;
@@ -130,35 +134,6 @@
 
 .post:hover .gif {
   opacity: 0;
-}
-
-
-@media only screen and (max-width: 1680px) {
-   .grid-sizer,
-   .grid-item {
-      width: 25%;
-   }
-}
-
-@media only screen and (max-width: 1340px) {
-   .grid-sizer,
-   .grid-item {
-      width: 33.333%;
-   }
-}
-
-@media only screen and (max-width: 900px) {
-   .grid-sizer,
-   .grid-item {
-      width: 50%;
-   }
-}
-
-@media only screen and (max-width: 560px) {
-   .grid-sizer,
-   .grid-item {
-      width: 100%;
-   }
 }
 
 

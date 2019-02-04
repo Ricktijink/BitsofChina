@@ -16,7 +16,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/hamoen-saberi.jpg" alt="Hamoen Saberi">
+                            <img src="../Images/Crew/hamoen-saberi.jpg" alt="Hamoen Saberi">
                         </div>
                         <span class="personName">Hamoen Saberi</span>
                         <span class="personTitle">Psychologist, Custom education, Xi'an</span> 
@@ -25,7 +25,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/faraz-saberi.jpg" alt="Faraz Saberi">
+                            <img src="../Images/Crew/faraz-saberi.jpg" alt="Faraz Saberi">
                         </div>
                         <span class="personName">Faraz Saberi</span>
                         <span class="personTitle">Chief editor BOC, Linguist, Xi'an</span> 
@@ -34,7 +34,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/echo-wang.jpg" alt="Echo Wang">
+                            <img src="../Images/Crew/echo-wang.jpg" alt="Echo Wang">
                         </div>
                         <span class="personName">Echo Wang</span>
                         <span class="personTitle">Communications student, Business owner, Xi'an</span> 
@@ -43,7 +43,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/eric-ampong.jpg" alt="Eric Ampong">
+                            <img src="../Images/Crew/eric-ampong.jpg" alt="Eric Ampong">
                         </div>
                         <span class="personName">Eric Ampong</span>
                         <span class="personTitle">Translator, Linguist, Xi'an</span> 
@@ -52,7 +52,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/gilles-heirbaut.jpg" alt="Gilles Heirbaut">
+                            <img src="../Images/Crew/gilles-heirbaut.jpg" alt="Gilles Heirbaut">
                         </div>
                         <span class="personName">Gilles Heirbaut</span>
                         <span class="personTitle">Linguist, BOC Correspondant, Xianyang</span> 
@@ -61,7 +61,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/jacopo-lavecchia.jpg" alt="Jacopo Lavecchia">
+                            <img src="../Images/Crew/jacopo-lavecchia.jpg" alt="Jacopo Lavecchia">
                         </div>
                         <span class="personName">Jacopo Lavecchia</span>
                         <span class="personTitle">Linguist, Business student, Xi'an</span> 
@@ -70,7 +70,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/yire-park.jpg" alt="Yire Park">
+                            <img src="../Images/Crew/yire-park.jpg" alt="Yire Park">
                         </div>
                         <span class="personName">Park Yire</span>
                         <span class="personTitle">Language communcation officer, Xi'an</span> 
@@ -79,7 +79,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/sergei-sergeev.jpg" alt="Sergei Sergio">
+                            <img src="../Images/Crew/sergei-sergeev.jpg" alt="Sergei Sergio">
                         </div>
                         <span class="personName">Sergei Sergeev</span>
                         <span class="personTitle">Linguist, Student international law, ChengDu</span> 
@@ -88,7 +88,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/slava-yatsenko.jpg" alt="Slava Yatsenko">
+                            <img src="../Images/Crew/slava-yatsenko.jpg" alt="Slava Yatsenko">
                         </div>
                         <span class="personName">Slava Yatsenko</span>
                         <span class="personTitle">Business graduate, Director, Actor</span> 
@@ -97,7 +97,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/serena-huskey.jpg" alt="Serena Huskey">
+                            <img src="../Images/Crew/serena-huskey.jpg" alt="Serena Huskey">
                         </div>
                         <span class="personName">Serena Huskey</span>
                         <span class="personTitle">Communications student, Teacher, Xi'an</span> 
@@ -106,7 +106,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/iva-stojevic.jpg" alt="Iva Stojevic">
+                            <img src="../Images/Crew/iva-stojevic.jpg" alt="Iva Stojevic">
                         </div>
                         <span class="personName">Iva Stojevic</span>
                         <span class="personTitle">PHD student archeology, writer, Xi'an</span> 
@@ -115,7 +115,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/jip-friesen.jpg" alt="Jip Friesen">
+                            <img src="../Images/Crew/jip-friesen.jpg" alt="Jip Friesen">
                         </div>
                         <span class="personName">Jip Friesen</span>
                         <span class="personTitle">Sinology student, BOC Correspondent, Xi'an</span> 
@@ -124,7 +124,7 @@
                 <li>
                     <div class="personWrapper">
                         <div class="personPic">
-                            <img src="Images/Crew/lucas-heirbaut.jpg" alt="Lucas Heirbaut">
+                            <img src="../Images/Crew/lucas-heirbaut.jpg" alt="Lucas Heirbaut">
                         </div>
                         <span class="personName">Lucas Heirbaut</span>
                         <span class="personTitle">Creative director, Belgium</span> 
