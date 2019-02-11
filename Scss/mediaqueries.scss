@@ -81,7 +81,7 @@
 }
 
 @media only screen and (max-width: 960px) {
-    .page-sidebar-left{
+    .left-sidebar{
         position: static;
         width: 100%;
         z-index: 10;
@@ -96,7 +96,7 @@
         padding-top: 40px;
     }
 
-    .navigation-menu {
+    .sidebar-introduction {
         width: 100%;
         height: auto;
         margin: 30px auto 30px auto;
@@ -107,7 +107,7 @@
         display: none;
     }
 
-    .sidebar-footer {
+    .left-sidebar-footer {
         width: 100%;
         height: auto;
         position: static; 

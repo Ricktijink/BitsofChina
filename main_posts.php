@@ -4,17 +4,17 @@
   <div class="grid-item lifestyle series1">
      <div class="post-content-wrapper">
         <div class="post-title">
-           <h2 class="name">2. No picture? No Problemo!</h2>
+           <h2 class="name">When you put it that way</h2>
         </div>
         <div class="post-category">
            Lifestyle
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            At first glance it is just a gazebo, another tiny wooden house that dots the North West university campus landscape.... <span><a href="Posts/when-you-put-it-that-way.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Faraz Saberi</span>
-           <i class="far fa-clock"></i><span class="date">11-06-2018</span>
+           <i class="far fa-clock"></i><span class="date">05-02-2019</span>
         </div>
      </div>
   </div>
@@ -31,7 +31,7 @@
            Recreation
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Faraz Saberi</span>
@@ -49,7 +49,7 @@
            Work
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Faraz Saberi</span>
@@ -81,7 +81,7 @@
            Lifestyle
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Rick Tijink</span>
@@ -92,7 +92,7 @@
   <!-- POST 7 - Post w/ Video -->
   <div class="grid-item nightlife travel series6">
      <div class="post-thumbnail">
-        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/wsb0_y-HCVU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/KnUrBMs5F6U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </div>
      <div class="post-content-wrapper">
         <div class="post-title">
@@ -102,7 +102,7 @@
            Night life | Travel
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Yire Park</span>
@@ -123,7 +123,7 @@
            Food
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Rick Tijink</span>
@@ -144,7 +144,7 @@
            Food | Lifestyle
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Taeyeon Kim</span>
@@ -166,7 +166,7 @@
            Student
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Rick Tijink</span>
@@ -197,7 +197,7 @@
            Night life | Student
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Faraz Saberi</span>
@@ -215,7 +215,7 @@
            Travel
         </div>
         <div class="post-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php" target="_blank">Read more</a></span>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque eos quod, voluptatum nobis unde placeat quo... <span><a href="Posts/post_1.php">Read more</a></span>
         </div>
         <div class="post-author-date">
            <i class="far fa-user"></i> <span class="author">Faraz Saberi</span>

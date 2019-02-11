@@ -22,29 +22,31 @@
    <!-- 0.0 - Container -->
    <div class="container">
       <!-- 1.1 - Sidebar -->
-      <div class="page-sidebar-left">
+      <div class="left-sidebar">
          <!-- 1.2 - Logo -->
          <div class="logo">
+            <!-- TODO: fix or remove id -->
             <div class="logo-image" id="open">
                <img src="Images/logo.png" alt="Logo">
             </div>
+            <!-- TODO: fix or remove id -->
             <div class="logo-text" id="close">
                <h1>Bits of China</h1>
             </div>
          </div>
-         <!-- 1.3 - Navigation -->
-         <div class="navigation-menu">
+         <!-- 1.3 - Introduction -->
+         <div class="sidebar-introduction">
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis reiciendis eius blanditiis, 
-              quasi quia.
+              What's China really like? <br> 
+              We provide the bits so you can put them together, one bit at a time.
             </p>
          </div>
-         <!-- 1.4 - Footer -->
-         <div class="sidebar-footer">
-            <div class="footer-social">
+         <!-- 1.4 - Left Sidebar Footer -->
+         <div class="left-sidebar-footer">
+            <div class="footer-socialmedia">
                   <!-- Facebook -->
                   <div class="soc-icon" id="soc-1">
-                     <i class="fab fa-facebook-f"></i>
+                     <a href="https://www.facebook.com/Bits-of-China-869697049899478/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                   </div>
                   <!-- LinkedIn -->
                   <div class="soc-icon" id="soc-2">
@@ -59,7 +61,7 @@
                      <i class="far fa-user"></i>
                   </div>
             </div>
-            <div class="footer-copy">
+            <div class="footer-copyright">
                Bits of China, 2018.
                <span>Rick Tijink</span>
             </div>

@@ -2,8 +2,8 @@
     <h3>Welcome to</h3>
     <h1>Bits of China</h1>
     <p>
-        YES this looks boring but that's because i am not done with this part yet!
-        You can fill this part up with the ABOUT US section. That way it will always be in view. 
+        Bits of China is an independent undertaking set up by a group of friends who would like to show a different 
+        side to China. Come see for yourself!
     </p>
     <br/><br/>
     <h3><strong>Our Crew</strong></h3>
@@ -145,7 +145,7 @@
     <div class="area">
         <!-- Facebook -->
         <div class="soc-icon-right">
-            <i class="fab fa-facebook-f"></i>
+            <a href="https://www.facebook.com/Bits-of-China-869697049899478/" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </div>
         <!-- LinkedIn -->
         <div class="soc-icon-right">
@@ -155,7 +155,7 @@
         <div class="soc-icon-right">
             <i class="far fa-envelope-open"></i>
         </div>
-        <!-- CV -->
+        <!-- huhh -->
         <div class="soc-icon-right">
             <i class="far fa-user"></i>
         </div>

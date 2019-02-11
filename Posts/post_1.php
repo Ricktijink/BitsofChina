@@ -22,7 +22,7 @@
    <!-- 0.0 - Container -->
    <div class="container">
       <!-- 1.1 - Sidebar -->
-      <div class="page-sidebar-left">
+      <div class="left-sidebar">
          <!-- 1.2 - Logo -->
          <div class="logo">
             <div class="logo-image">
@@ -32,17 +32,17 @@
                <h1>Bits of china</h1>
             </div>
          </div>
-         <!-- 1.3 - Navigation -->
-         <div class="navigation-menu">
+         <!-- 1.3 - Introduction -->
+         <div class="sidebar-introduction">
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis reiciendis eius blanditiis, 
               quasi quia.
               <a href="../index.php" class="back_btn1">BACK</a>
             </p>
          </div>
-         <!-- 1.4 - Footer -->
-         <div class="sidebar-footer">
-            <div class="footer-social">
+         <!-- 1.4 - Left Sidebar Footer -->
+         <div class="left-sidebar-footer">
+            <div class="footer-socialmedia">
                   <!-- Facebook -->
                   <div class="soc-icon" id="soc-1">
                      <i class="fab fa-facebook-f"></i>
@@ -60,7 +60,7 @@
                      <i class="far fa-user"></i>
                   </div>
             </div>
-            <div class="footer-copy">
+            <div class="footer-copyright">
                Bits of China, 2018.
                <span>Rick Tijink</span>
             </div>
@@ -74,7 +74,7 @@
             <div class="postbig-wrapper">
                <div class="postbig-content">
                   <!-- Title of the post -->
-                 <h2 class="postbig-title">Standard post with image!</h2>
+                 <h2 class="postbig-title">1. No picture? No Problemo!</h2>
                   <div class="postbig-info">
                      <!-- Autoher of the post -->
                      <i class="far fa-user"></i>Taeyeon Kim |
@@ -89,10 +89,13 @@
                   </div>
                   <div class="postbig-text">
                      <p class="text-intro">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate lacus lorem. Etiam risus nulla, 
-                        ullamcorper vitae lobortis et, condimentum ut risus. Vivamus dapibus metus dolor. Class aptent taciti 
-                        sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque neque dolor, maximus vitae 
-                        elementum sed, suscipit vitae mi. Duis ac ultricies elit. Phasellus tortor lorem, imperdiet eu nibh eget.
+                        Regardless of the foggy mountain terrain that covers the front page of travel magazines or the rows of soldiers that boldly march over our news feeds, what we see of China is still almost exclusively brought to us through the lens of an expensive camera or ink on official paper. 
+                        But what’s it like to be here? What’s it like to live here and get to know the people? 
+                        On this page, you will find no politicians shaking hands, nor will you be bombarded with charts of debts, loans, and economic growth.
+                        Instead, you will find the yet untold stories of the individuals who live here, pieced together through bits of overheard conversations, events that transpire on the road, and jokes shared with friends over drinks. 
+                        In sharing these bits with you, we hope to piece together a view of China that may seem far away but is actually very close to what we know. 
+                        So, what’s China really like? <br>
+                        Put all the bits together and tell us what you think.
                      </p>
                      <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate lacus lorem. Etiam risus nulla, 
